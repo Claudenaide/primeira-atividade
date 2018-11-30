@@ -1,0 +1,23 @@
+.cor-fundo{
+  background-color: #ff7675;
+}
+.intro{
+  color: white;
+  text-align: center;
+  margin-top: 10%
+}
+.intro img {
+  border-radius: 50%;
+  max-width: 20%;
+  max-height: 20%;
+}
+.lista-linha{
+  padding-left: 0;
+  list-style:  none;
+}
+.lista-linha li{
+  display: inline-block;
+}
+.font-header{
+  font-family: 'Black Han Sans', sans-serif;
+}
